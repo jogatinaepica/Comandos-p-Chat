@@ -10,5 +10,5 @@
 
 **!g2a**: link para comprar moedas mais barato na G2A
 
-**!nuuvem**: link para os descontos em jogos na Nuuvem
+**!nuuvem**: link dos descontos em jogos na Nuuvem
 
