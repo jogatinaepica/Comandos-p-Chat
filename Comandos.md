@@ -12,3 +12,5 @@
 
 **!nuuvem**: link dos descontos em jogos na Nuuvem
 
+**!vpn**: link pra comprar VPN Pure com desconto
+
